@@ -1,0 +1,7 @@
+src / content / LandingPage / LandingPage.js;
+
+import React from 'react';
+const LandingPage = () => {
+  return <div>LANDING PAGE</div>;
+};
+export default LandingPage;
